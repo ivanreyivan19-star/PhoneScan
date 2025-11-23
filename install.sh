@@ -4,7 +4,7 @@ sleep 2
 pkg install python3
 pip install phonenumbers
 clear
-sleep 1
+sleep 1Th 5v
 echo Paquetes instalados.
 echo " "
 echo Colocar python PhoneScan.py para ejecutarlo.
